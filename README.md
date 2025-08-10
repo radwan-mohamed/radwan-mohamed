@@ -93,7 +93,9 @@
 ### 📊 GitHub Analytics
 
 <!-- Auto-switch for dark/light -->
+
 <p align="center">
+  <!-- Bigger left card -->
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200&theme=transparent"
@@ -103,11 +105,12 @@
       srcset="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="Radwan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" height="200" />
+    <img alt="Radwan's GitHub stats"
+         src="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"
+         width="58%" />
   </picture>
 
-  &nbsp;&nbsp;&nbsp;
-
+  <!-- Smaller right card -->
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200&theme=transparent"
@@ -117,9 +120,12 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200" height="200" />
+    <img alt="Top languages"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200"
+         width="28%" />
   </picture>
 </p>
+
 
 
 
