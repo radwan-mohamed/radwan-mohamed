@@ -1,7 +1,4 @@
 <!-- Header / Banner -->
-<p align="center">
-  <img src="assets/header.png" alt="Radwan Hefny - Software Engineer | Data & DevOps" />
-</p>
 
 <h1 align="center">Hi, I'm Radwan Hefny 👋</h1>
 <p align="center">
@@ -15,13 +12,10 @@
   <a href="https://www.linkedin.com/in/radwan-moh">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/radwanmoh1624">
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white">
-  </a>
   <a href="https://github.com/radwan-mohamed">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
   </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=radwan-mohamed&style=flat-square&color=blue">
+
 </p>
 
 ---
@@ -91,3 +85,48 @@
   Full‑Stack Dev (Udemy) • Embedded Systems (Amit) • Ethical Hacking (Udemy) • **CCNA**
 
 ---
+
+
+
+---
+
+### 📊 GitHub Analytics
+
+<!-- Auto-switch for dark/light -->
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="Radwan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200" />
+  </picture>
+</p>
+
+
+
+
+### 🤝 Recent Public Contributions
+<!-- START:CONTRIB_CARDS -->
+(loading…)
+<!-- END:CONTRIB_CARDS -->
+
+
