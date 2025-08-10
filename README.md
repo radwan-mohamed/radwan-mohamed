@@ -122,7 +122,14 @@
 </p>
 
 
+---
+<br/>
 
+![Stats](https://github-readme-stats.vercel.app/api?username=kelvinosse&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+
+<br/>
+
+---
 
 ### 🤝 Recent Public Contributions
 <!-- START:CONTRIB_CARDS -->
