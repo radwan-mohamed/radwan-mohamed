@@ -1,0 +1,99 @@
+name: Update contributed repos grid
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily at 06:17 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      TARGET_USER: radwan-mohamed
+      MAX_REPOS: "12"                # change to 8/16/etc if you want
+      CARD_BASE: "https://github-readme-stats.vercel.app/api/pin"
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contributed repos (public, no forks)
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const login = process.env.TARGET_USER;
+            const maxRepos = parseInt(process.env.MAX_REPOS || '12', 10);
+            const cardBase = process.env.CARD_BASE;
+
+            // last 12 months
+            const since = new Date();
+            since.setFullYear(since.getFullYear() - 1);
+
+            const query = `
+            query($login:String!, $from:DateTime!) {
+              user(login: $login) {
+                contributionsCollection(from: $from) {
+                  pullRequestContributionsByRepository(maxRepositories: 100) {
+                    contributions(first: 1) { totalCount }
+                    repository { name owner { login } url isPrivate isFork }
+                  }
+                  commitContributionsByRepository(maxRepositories: 100) {
+                    contributions(first: 1) { totalCount }
+                    repository { name owner { login } url isPrivate isFork }
+                  }
+                }
+              }
+            }`;
+
+            const result = await github.graphql(query, { login, from: since.toISOString() });
+
+            const agg = new Map();
+            function addRepo(r, count) {
+              if (!r || r.isPrivate) return;   // public only
+              if (r.isFork) return;            // skip forks
+              const key = `${r.owner.login}/${r.name}`;
+              const prev = agg.get(key) || { count: 0, repo: r };
+              prev.count += (count || 0);
+              agg.set(key, prev);
+            }
+
+            for (const it of result.user.contributionsCollection.pullRequestContributionsByRepository) {
+              addRepo(it.repository, it.contributions.totalCount);
+            }
+            for (const it of result.user.contributionsCollection.commitContributionsByRepository) {
+              addRepo(it.repository, it.contributions.totalCount);
+            }
+
+            const top = [...agg.values()]
+              .sort((a, b) => b.count - a.count)
+              .slice(0, maxRepos);
+
+            const pin = (owner, name, url) =>
+              `<a href="${url}"><img src="${cardBase}/?username=${owner}&repo=${name}&hide_border=true" /></a>`;
+
+            const rows = [];
+            for (let i = 0; i < top.length; i += 2) {
+              const a = top[i];
+              const b = top[i + 1];
+              rows.push(
+                `<p align="center">\n  ${pin(a.repo.owner.login, a.repo.name, a.repo.url)}\n  ${b ? pin(b.repo.owner.login, b.repo.name, b.repo.url) : ""}\n</p>`
+              );
+            }
+            const grid = rows.join('\n\n');
+
+            // inject into README
+            const readmePath = 'README.md';
+            const start = '<!-- START:CONTRIB_CARDS -->';
+            const end = '<!-- END:CONTRIB_CARDS -->';
+            const md = fs.readFileSync(readmePath, 'utf8');
+
+            if (!md.includes(start) || !md.includes(end)) {
+              core.setFailed('Markers not found in README.');
+              return;
+            }
+
+            const block = `${start}\n${grid || '(no public contributions in the last year)'}\n${end}`;
+            const newMd = md.replace(new RegExp(`${start}[\\s\\S]*?${end}`), block);
+
+            if (newMd !== md) {
+              fs.writeFileSync(readmePath, new
