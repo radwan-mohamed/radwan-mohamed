@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:radwanmoh1624@gmail.com">
+  <a href="mailto:">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/radwan-moh">
@@ -103,11 +103,11 @@
       srcset="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="Radwan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" />
+    <img alt="Radwan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" height="200" />
   </picture>
-</p>
 
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
+
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200&theme=transparent"
@@ -117,9 +117,10 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200" height="200" />
   </picture>
 </p>
+
 
 
 ---
