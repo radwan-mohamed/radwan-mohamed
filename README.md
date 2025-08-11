@@ -137,5 +137,105 @@
 <!-- START:CONTRIB_CARDS -->
 (loading…)
 <!-- END:CONTRIB_CARDS -->
+---
+---
+---
+<h1 align="center">Hi, I'm Radwan Hefny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=DevOps+%26+Cybersecurity+Enthusiast;BSc+Computer+Engineering+Student;Machine+Learning+Engineer;Full+Stack+Developer;Always+learning+new+things">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=radwan-mohamed&label=Profile%20views&color=0047AB&style=plastic" alt="Profile Views" height="25px"/> 
+</p>
+
+---
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
+
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
+
+- 🎓 **BSc in Computer Engineering** at Arab Academy for Science, Technology & Maritime Transport (AASTMT) — GPA **3.4/4.0**.
+- 💻 Passionate about **DevOps, Cybersecurity, and Machine Learning**.
+- 🚀 Hands-on experience with **Docker, Kubernetes, Jenkins, Spring Boot, Angular, Wazuh SIEM, Suricata IDS, OpenShift**.
+- 🛡️ Developed **Malware Detection and DoS Protection System** using Wazuh & Suricata.
+- 🔬 Worked on **Distributed RAID5 Recovery**, **IoT InsightHub**, and multiple full-stack applications.
+- 📄 Check out my **[Resume](mailto:radwanmoh1624@gmail.com?subject=Request%20for%20Resume)**.
+- 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/radwan-moh) | [GitHub](https://github.com/radwan-mohamed) | [HackerRank](https://www.hackerrank.com/radwanmoh1624)
+
+---
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with Me
+
+<p align="center">
+	<a href="mailto:radwanmoh1624@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
+	<a href="https://github.com/radwan-mohamed"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+	<a href="https://linkedin.com/in/radwan-moh"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
+	<a href="https://www.hackerrank.com/radwanmoh1624"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white"></a>
+</p>
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-.NET-239120?style=plastic&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+</p>
+
+### Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Wazuh-%230066CC.svg?style=plastic&logo=wazuh&logoColor=white">
+  <img src="https://img.shields.io/badge/Suricata-%23FF4500.svg?style=plastic&logo=suricata&logoColor=white">
+</p>
+
+### Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<details><summary><b>🔥 Streak Stats</b></summary>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radwan-mohamed&theme=tokyonight_duo">
+</p>
+</details>
+
+<details><summary><b>💻 GitHub Profile Stats</b></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&count_private=true&theme=tokyonight" height="230px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radwan-mohamed&langs_count=10&theme=tokyonight" height="230px">
+</p>
+</details>
+
+---
+
+## 🐍 Snake Eating my Contributions
+<p align="center">
+  <img src="https://github.com/radwan-mohamed/radwan-mohamed/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</p>
+
 
 
