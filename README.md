@@ -214,28 +214,13 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<details><summary><b>🔥 Streak Stats</b></summary>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radwan-mohamed&theme=tokyonight_duo">
-</p>
-</details>
-
-<details><summary><b>💻 GitHub Profile Stats</b></summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&count_private=true&theme=tokyonight" height="230px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radwan-mohamed&langs_count=10&theme=tokyonight" height="230px">
-</p>
-</details>
-
 ---
 
 ## 🐍 Snake Eating my Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/radwan-mohamed/radwan-mohamed/main/assets/github-contribution-grid-snake-dark.svg" alt="Snake Game">
+  <img src="https://github.com/radwan-mohamed/radwan-mohamed/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </p>
+
 
 
 
