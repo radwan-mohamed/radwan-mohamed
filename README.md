@@ -20,13 +20,18 @@
 
 ---
 
-### 👨‍💻 About me
-- 🎓 **BSc Computer Engineering**, AASTMT 
-- 💼 SWE Intern @ **DXC** (Spring Boot • Angular • MySQL • Docker • Jenkins • Kubernetes/OpenShift)
-- 🧠 Data Science Intern @ **Techno‑Colab** (EDA • feature eng • model building • deployment)
-- 🔐 Cyber projects with **Wazuh SIEM + Suricata** (malware detection, DoS protection)
-- 🔭 Now: sharpening **DEVOPS**, **MLOPS**, **Cyber Security** 
-- 📫 Reach me: 
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
+
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
+
+- 🎓 **BSc in Computer Engineering** at Arab Academy for Science, Technology & Maritime Transport (AASTMT) — GPA **3.4/4.0**.
+- 💻 Passionate about **DevOps, Cybersecurity, and Machine Learning**.
+- 🚀 Hands-on experience with **Docker, Kubernetes, Jenkins, Spring Boot, Angular, Wazuh SIEM, Suricata IDS, OpenShift**.
+- 🛡️ Developed **Malware Detection and DoS Protection System** using Wazuh & Suricata.
+- 🔬 Worked on **Distributed RAID5 Recovery**, **IoT InsightHub**, and multiple full-stack applications.
+- 📄 Check out my **[Resume](mailto:radwanmoh1624@gmail.com?subject=Request%20for%20Resume)**.
+- 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/radwan-moh) | [GitHub](https://github.com/radwan-mohamed) | [HackerRank](https://www.hackerrank.com/radwanmoh1624)
 
 ---
 
@@ -87,87 +92,6 @@
 ---
 
 
-
----
-
-### 📊 GitHub Analytics
-
-<!-- Auto-switch for dark/light -->
-
-<p align="center">
-  <!-- Bigger left card -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200&theme=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img alt="Radwan's GitHub stats"
-         src="https://github-readme-stats.vercel.app/api?username=radwan-mohamed&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"
-         width="58%" />
-  </picture>
-
-  <!-- Smaller right card -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200&theme=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img alt="Top languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-mohamed&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200"
-         width="28%" />
-  </picture>
-</p>
-
-
-
-
----
-
----
-
-### 🤝 Recent Public Contributions
-<!-- START:CONTRIB_CARDS -->
-(loading…)
-<!-- END:CONTRIB_CARDS -->
----
----
----
-<h1 align="center">Hi, I'm Radwan Hefny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=DevOps+%26+Cybersecurity+Enthusiast;BSc+Computer+Engineering+Student;Machine+Learning+Engineer;Full+Stack+Developer;Always+learning+new+things">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=radwan-mohamed&label=Profile%20views&color=0047AB&style=plastic" alt="Profile Views" height="25px"/> 
-</p>
-
----
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
-
-<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
-
-- 🎓 **BSc in Computer Engineering** at Arab Academy for Science, Technology & Maritime Transport (AASTMT) — GPA **3.4/4.0**.
-- 💻 Passionate about **DevOps, Cybersecurity, and Machine Learning**.
-- 🚀 Hands-on experience with **Docker, Kubernetes, Jenkins, Spring Boot, Angular, Wazuh SIEM, Suricata IDS, OpenShift**.
-- 🛡️ Developed **Malware Detection and DoS Protection System** using Wazuh & Suricata.
-- 🔬 Worked on **Distributed RAID5 Recovery**, **IoT InsightHub**, and multiple full-stack applications.
-- 📄 Check out my **[Resume](mailto:radwanmoh1624@gmail.com?subject=Request%20for%20Resume)**.
-- 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/radwan-moh) | [GitHub](https://github.com/radwan-mohamed) | [HackerRank](https://www.hackerrank.com/radwanmoh1624)
-
----
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with Me
 
